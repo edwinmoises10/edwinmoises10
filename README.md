@@ -23,5 +23,14 @@
 
 ---
 
+### 🚀 Featured Deployments
+
+| Project | Description | Live Demo |
+| :--- | :--- | :--- |
+| **🛍️ CloudVibes E-commerce** | Modern e-commerce interface built with React logic and scalable components. | [**View App**](https://cloudvibes-ecommerce-asfb-i3uhaauc8-edwinmoises10s-projects.vercel.app) |
+| **🎵 FeelTheMusic** | Responsive music platform interface focusing on UI/UX and CSS architecture. | [**View App**](https://devfeelthemusic.netlify.app) |
+
+---
+
 ### 📈 GitHub Stats
 ![Moi's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinmoises10&show_icons=true&theme=radical)
